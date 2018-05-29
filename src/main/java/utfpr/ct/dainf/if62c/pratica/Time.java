@@ -9,7 +9,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author João Paulo
+ * @author rafaelbisol
  */
 public class Time {
     private HashMap<String, Jogador> jogadores = new HashMap<>();
